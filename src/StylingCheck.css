@@ -1,0 +1,18 @@
+li {
+    flex:auto;
+    border:1px solid black;
+  
+}
+
+
+ul {
+    display:flex;
+    flex-direction:column;
+    width:400px;
+    flex-wrap:wrap;
+}
+
+.first-container {
+    width:200px;
+    border:1px solid black;
+}
